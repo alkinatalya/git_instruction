@@ -9,6 +9,9 @@
 
 3 **Вставляем вместо слова (Ссылка) саму ссылку**
 
+Текст ветки 3
+
+
 *![test] (https://www.sunhome.ru/i/wallpapers/73/krasnoe-selo.orig.jpg)*
 
 4 **Итог**
